@@ -28,7 +28,7 @@ header {
   width: 100%;
   display: flex;
   align-items: center;
-  background-color: #ffe261;
+  background-color: #c4fffb;
   padding: 20px 24px;
   text-align: center;
   min-height: 150px;
@@ -139,13 +139,13 @@ main .product .product-content .see-more a {
   text-decoration: none;
   padding: 6px 20px;
   color: #000;
+  background-color: #00ffee;
   border: 1px solid #000;
   transition: all ease .2s;
 }
 
 main .product .product-content .see-more a:hover {
   color: #fff;
-  border: 1px solid #fff;
-  background-color: #000;
+  background-color: #0033be;
   transition: all ease .2s;
 }
